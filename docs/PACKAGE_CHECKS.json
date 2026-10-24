@@ -1,0 +1,13 @@
+{
+  "python": "3.12.14",
+  "compilation": "PASS",
+  "synthetic_checks": [
+    "mean_search_Test_perturbation_isolation",
+    "subset_determinism_and_unique_clips",
+    "temporal_summary_arithmetic",
+    "fixed_recipe_execution_and_retrospective_metadata"
+  ],
+  "real_video_reproduction": false,
+  "clean_dependency_install_tested": false,
+  "data_included": false
+}

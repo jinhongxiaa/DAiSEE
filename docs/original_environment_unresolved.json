@@ -1,0 +1,15 @@
+{
+  "packages": {
+    "python": null,
+    "numpy": null,
+    "pandas": null,
+    "matplotlib": null,
+    "scipy": null,
+    "scikit-learn": null,
+    "torch": null,
+    "torchvision": null,
+    "opencv-python": null,
+    "Pillow": null
+  },
+  "reason": "No exact original pip freeze or full package-version record recovered; current verification versions must not replace historical versions."
+}
